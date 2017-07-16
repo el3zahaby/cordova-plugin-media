@@ -52,7 +52,7 @@ Report issues with this plugin on the [Apache Cordova issue tracker](https://iss
 ## Installation
 
 ```bash
-cordova plugin add cordova-plugin-media
+cordova plugin add https://github.com/el3zahaby/cordova-plugin-media.git
 ```
 
 ## Supported Platforms
